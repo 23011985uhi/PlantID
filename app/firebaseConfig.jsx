@@ -7,12 +7,12 @@ import { getFirestore } from 'firebase/firestore';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAN5Qmc290qGCb5NF8sH_QKl0ySDO-nDEE",
-  authDomain: "diss-project-d26ad.firebaseapp.com",
-  projectId: "diss-project-d26ad",
-  storageBucket: "diss-project-d26ad.appspot.com",
-  messagingSenderId: "15351133165",
-  appId: "1:15351133165:web:fcb74628b5929af5a6ede4"
+  apiKey: "xxxxxx",
+  authDomain: "xxxxxx",
+  projectId: "xxxxxx",
+  storageBucket: "xxxxxxx",
+  messagingSenderId: "xxxxxx",
+  appId: "xxxxx"
 };
 
 
